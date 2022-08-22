@@ -2,5 +2,5 @@
 
 ```
 npm i
-npm run contentlayer
+npm run docs
 ```

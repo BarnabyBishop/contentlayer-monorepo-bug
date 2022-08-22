@@ -27,7 +27,7 @@ export const Component = defineDocumentType(() => ({
 
 export default makeSource({
   contentDirInclude: ["components"],
-  contentDirPath: ".",
+  contentDirPath: "..",
   documentTypes: [Component],
   onUnknownDocuments: "skip-ignore",
 });
